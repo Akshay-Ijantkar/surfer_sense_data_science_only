@@ -11,10 +11,12 @@ It provides following functionalities:
 * Tailored surfing news related to topics which surfers will be interested into.  o Topics which will give surfers word of cautions like Shark Attack, Jelly fish and Rip Current.  o Topics which will motivate surfers like Surfing competitions and Surfing life. 
 * Emergency support service which will help surfers in case of emergency like injuries to navigate with nearby hospitals as per their current location. It just not recommends nearby hospitals with generic information like address, website, phone no. and google rating but also tells user responsiveness score (Percentage of patients seen on time by that hospital in the past) and also gives list of services provided by the hospital. 
 
-# Product Link https://surfersense.tk/   
+# Product Link:
+* https://surfersense.tk/   
 * Access Credentials: Username: user | Password: EnterSite123@ 
 
-# Product Video: Access Link: https://www.youtube.com/watch?v=1cWaSNg8Heg
+# Product Video: 
+* Access Link: https://www.youtube.com/watch?v=1cWaSNg8Heg
 
 # How Surfers' Sense Works from Data Science aspect - Explained in Brief:
 * Video Access Link: https://drive.google.com/file/d/1C3vfXbtRLm7Cf19w8wzFhZXiDY3ctOR0/view?usp=sharing 
