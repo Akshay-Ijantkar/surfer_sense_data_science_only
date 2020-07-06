@@ -16,6 +16,8 @@ It provides following functionalities:
 
 # Product Video: Access Link: https://www.youtube.com/watch?v=1cWaSNg8Heg
 
+# How Surfers' Sense Works from Data Science aspect - Explained in Brief:
+* Video Access Link: https://drive.google.com/file/d/1C3vfXbtRLm7Cf19w8wzFhZXiDY3ctOR0/view?usp=sharing 
 
 # DB_Populating_Scripts:
 -> Running on AWS EC2 to populate Postgres DB everynight using Crontab
